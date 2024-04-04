@@ -1,6 +1,6 @@
 git init 
 git add . 
 git comit "commity le fichier"
-git remote add origin https://github.com/user/repositry.git
+git remote add origin https://github.com/user/repositry.gitmm
 git remote set-url origin https://user:mytoken/user/reporitry.git
 git push --set-upstream origin master
